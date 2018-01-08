@@ -19,7 +19,6 @@ public class ViewController {
 		FileChooser fileChooser = new FileChooser();
 		fileChooser.setTitle("Open Resource File");
 		File chosenDir = fileChooser.showOpenDialog(null);
-				
 	}
 	
 	private void setMainApp(FileRenamerMain mainApp) {
