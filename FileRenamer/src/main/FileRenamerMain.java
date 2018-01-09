@@ -1,14 +1,8 @@
 package main;
 import java.io.File;
-import java.util.List;
-
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.io.filefilter.TrueFileFilter;
 
 import javafx.application.Application;
-import javafx.stage.Stage;
 import view.MainApp;
-import view.ViewController;
 
 
 public class FileRenamerMain {
